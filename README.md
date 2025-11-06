@@ -35,7 +35,7 @@ Each project follows its respective step-by-step process — from data understan
 - Actual vs. Predicted visualization & model comparison report  
 
 🔗 **Colab:** [Open Notebook](https://colab.research.google.com/drive/134P3IIwW-fcq5DO2KZoZ5VProsNSQB_j?usp=sharing)  
-📰 **Medium Article:** _add link here_  
+📰 **Medium Article:** https://medium.com/@pratham.r410/predicting-bmw-sales-with-machine-learning-a-complete-semma-framework-implementation-219db745bcf8 
 🎥 **Demo Video:** https://youtu.be/DH_FKGXGGFk  
 
 ---
