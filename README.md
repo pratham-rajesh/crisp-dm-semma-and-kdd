@@ -21,7 +21,7 @@ Each project follows its respective step-by-step process — from data understan
 - Includes SHAP interpretability & deployment demo  
 
 🔗 **Colab:** [Open Notebook](https://colab.research.google.com/drive/1OteOspiyP6hsfK7ekXUOpNgrWnbJOCkL?usp=sharing)  
-📰 **Medium Article:** _add link here_  
+📰 **Medium Article:** https://medium.com/@pratham.r410/predicting-customer-churn-with-crisp-dm-a-data-driven-roadmap-to-retention-1ac22c15efc4 
 🎥 **Demo Video:** https://youtu.be/Os64R9U4vSc 
 
 ---
