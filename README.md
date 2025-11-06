@@ -53,7 +53,7 @@ Each project follows its respective step-by-step process — from data understan
 🔗 **Colab:** [Open Notebook](https://colab.research.google.com/drive/1SIa4mtBqwYDl14wt3DBJxZLIY-1Gn7Nb?usp=sharing)  
 📰 **Medium Article:** https://medium.com/@pratham.r410/predicting-tsunamis-from-earthquakes-a-machine-learning-approach-using-the-kdd-framework-9d520272257a  
 
-🎥 **Demo Video:** _add link here_  
+🎥 **Demo Video:** https://youtu.be/nUIxLfNyq_U 
 
 ---
 
