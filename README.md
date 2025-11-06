@@ -36,7 +36,7 @@ Each project follows its respective step-by-step process — from data understan
 
 🔗 **Colab:** [Open Notebook](https://colab.research.google.com/drive/134P3IIwW-fcq5DO2KZoZ5VProsNSQB_j?usp=sharing)  
 📰 **Medium Article:** _add link here_  
-🎥 **Demo Video:** _add link here_  
+🎥 **Demo Video:** https://youtu.be/DH_FKGXGGFk  
 
 ---
 
