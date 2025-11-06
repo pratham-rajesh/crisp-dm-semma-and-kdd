@@ -22,6 +22,7 @@ Each project follows its respective step-by-step process — from data understan
 
 🔗 **Colab:** [Open Notebook](https://colab.research.google.com/drive/1OteOspiyP6hsfK7ekXUOpNgrWnbJOCkL?usp=sharing)  
 📰 **Medium Article:** https://medium.com/@pratham.r410/predicting-customer-churn-with-crisp-dm-a-data-driven-roadmap-to-retention-1ac22c15efc4 
+
 🎥 **Demo Video:** https://youtu.be/Os64R9U4vSc 
 
 ---
@@ -36,6 +37,7 @@ Each project follows its respective step-by-step process — from data understan
 
 🔗 **Colab:** [Open Notebook](https://colab.research.google.com/drive/134P3IIwW-fcq5DO2KZoZ5VProsNSQB_j?usp=sharing)  
 📰 **Medium Article:** https://medium.com/@pratham.r410/predicting-bmw-sales-with-machine-learning-a-complete-semma-framework-implementation-219db745bcf8 
+
 🎥 **Demo Video:** https://youtu.be/DH_FKGXGGFk  
 
 ---
@@ -50,6 +52,7 @@ Each project follows its respective step-by-step process — from data understan
 
 🔗 **Colab:** [Open Notebook](https://colab.research.google.com/drive/1SIa4mtBqwYDl14wt3DBJxZLIY-1Gn7Nb?usp=sharing)  
 📰 **Medium Article:** _add link here_  
+
 🎥 **Demo Video:** _add link here_  
 
 ---
